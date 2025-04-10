@@ -1,5 +1,3 @@
----
-
 ## ✨ Fitur dan Penambahan File
 
 Berikut adalah daftar file dan fitur yang telah ditambahkan atau dikembangkan dalam project ini:
