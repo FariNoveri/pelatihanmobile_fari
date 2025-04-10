@@ -50,7 +50,6 @@ Berikut adalah daftar file dan fitur yang telah ditambahkan atau dikembangkan da
 > Pelatihan Pemrograman Mobile SI 22
 > Dibuat tahun 2024
 
-
 ---
 
 ```
